@@ -26,7 +26,7 @@ GSCIT is a platform-independent software implementing a novel Hash Table-based m
 # Developed by:
 ## Dr. Samarth Godara, Scientist
 ### Division of Computer Applications, ICAR-Indian Agricultural Statistics Research Institute (IASRI), Library Avenue, Pusa, New Delhi-110012 
-### Contact: samarth.godara@gmail.com; samarth.godara@gmail.com.
+### Contact: samarth.godara@gmail.com; samarth.godara@icar.gov.in
 
 ## Dr. Shbana Begam, Scientist
 ### ICAR-National Institute for Plant Biotechnology, New Delhi-110012
